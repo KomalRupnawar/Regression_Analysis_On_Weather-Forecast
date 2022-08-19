@@ -12,7 +12,7 @@ Data Cleaning : In this step we prepare the data for further analysis by find mi
 Exploratory Data Analysis : After cleaning process we study the discriptive statastic , visualize data based on how they related to each other.
 
 Model Development : In this stage we undergo the use of machine learning algorithm to model .
-#Tools And Technology:
+# Tools And Technology:
 Python
 
 jupyter Notebook
