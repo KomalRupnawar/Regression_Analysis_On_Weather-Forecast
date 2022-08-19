@@ -1,7 +1,7 @@
 # Regression_Analysis_On_Weather-Forecast
 # Aim:  
 Linear Regression is a machine learning algorithm used for the prediction of parameter which is in continuous nature. In Regression Analysis 
-On Weather Forecast project, linear regression has been used for forecasting the minimum and maximum temperature and wind speed.
+On Weather Forecast project, linear regression has been used for finding the relationship between Temperature and Humitidity. 
 # Objective:
 The objective of regression analysis On Weather Forecast is to find the relationship between Humidity And temperature.
 # Methodology:
@@ -19,4 +19,4 @@ jupyter Notebook
 
 Python Libraries : Pandas , Numpy , Matplotlib ,rcparams, Sklearn.
 # Conclusion:
-The linear regression Model is capable for weather forecasting.
+After fitting the linear regression model ,we can conclude that their is low corrleation between Temperature And Humidity.
